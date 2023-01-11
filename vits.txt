@@ -3,5 +3,5 @@ Gendre: Male
 Status: Married
 Educaion: M.E. Mecanical Engineering Batch 2016
 mailid: vitsjumbad@gmail.com
-
+Experience: 7 years Non IT Experience
 
